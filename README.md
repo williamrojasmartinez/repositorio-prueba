@@ -1,2 +1,2 @@
 # repositorio-prueba para practicas de git
-Es un Repo de prueba
+Es un Repo de prueba (William Rojas)
